@@ -14,3 +14,8 @@ Screens 3
 
 Giao diện trang Login
 ![image](https://github.com/user-attachments/assets/6ec96b6b-daab-4364-ba95-23432560b2b9)
+
+Bài tập cá nhân tuần 3
+Giao diện hiển thị profile người dùng
+
+Giao diện profile khi người dùng chỉnh sửa thông tin
