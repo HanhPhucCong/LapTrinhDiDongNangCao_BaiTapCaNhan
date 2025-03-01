@@ -31,3 +31,6 @@
 
 ### **3. Giao diện hiển thị nhập mã OTP khi thực hiện chỉnh sửa**  
 ![OTP Input](https://github.com/user-attachments/assets/d506c494-2cc5-4a70-80ce-23d73365648d)
+
+## Tuần 5
+Hiển thị trang xem chhi tiết sản phẩm
